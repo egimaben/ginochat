@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gin</string>
+    <string name="title_visitors">VISITORS</string>
+    <string name="title_chats">CHATS</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_editprofile">Edit Profile</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="prompt_email">your email</string>
+    <string name="prompt_password">your password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="field_required">Field Required</string>
+    <string name="incorrect_password">Incorrect Password</string>
+
+</resources>

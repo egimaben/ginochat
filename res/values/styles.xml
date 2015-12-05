@@ -1,0 +1,17 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+	    <item name="android:actionBarTabStyle">@style/AppTheme.ActionBar.Tab</item>
+	        <item name="actionBarTabStyle">@style/AppTheme.ActionBar.Tab</item>
+	    
+        
+    </style>
+	<style name="AppTheme.ActionBar.Tab" parent="@style/Widget.AppCompat.Light.ActionBar">
+    <item name="android:background">@drawable/tab_bar_background</item>
+</style>
+
+</resources>
